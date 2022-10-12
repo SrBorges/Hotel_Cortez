@@ -37,7 +37,11 @@ a utilização de hierarquia de classes sendo funcionário uma super classe gen�
 
 ![Captura de tela de 2022-08-10 15-52-16](https://user-images.githubusercontent.com/96485637/184002493-bbe72cd5-146e-49ba-8260-744feb929e70.png)
 
+# Requisitos 
 
+- Java
+- JDBC
+- DBeaver(MYSQL)
 
 
 
